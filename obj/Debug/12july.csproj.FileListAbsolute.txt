@@ -1,0 +1,8 @@
+D:\12july\12july\bin\Debug\12july.exe.config
+D:\12july\12july\bin\Debug\12july.exe
+D:\12july\12july\bin\Debug\12july.pdb
+D:\12july\12july\obj\Debug\12july.csproj.AssemblyReference.cache
+D:\12july\12july\obj\Debug\12july.csproj.SuggestedBindingRedirects.cache
+D:\12july\12july\obj\Debug\12july.csproj.CoreCompileInputs.cache
+D:\12july\12july\obj\Debug\12july.exe
+D:\12july\12july\obj\Debug\12july.pdb
